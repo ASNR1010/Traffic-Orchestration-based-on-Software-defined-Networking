@@ -8,7 +8,7 @@ Using the mininet we can implement SDN in 2 ways.
 
 ![Implementation options](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/Implementation%20options.png)
 
-Miniedit implementation steps : 
+**Miniedit implementation steps** : 
 
 1. Connect to controller.
 
@@ -35,7 +35,7 @@ Miniedit implementation steps :
 ![xterm miniedit](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/xterm%20miniedit.png)
 
 
-Mininet implementation :
+**Mininet implementation** :
 
 1. Creating Topologies using CLI.
 
@@ -46,14 +46,14 @@ Mininet implementation :
 
 ![PING all mininet](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/Pingall%20mininet.png)
 
-DITG traffic generator :
+**DITG traffic generator** :
 
 ![DITG](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/DITG.png)
 ![Xterminal DITG](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/Xterminal%20DITG.png)
 
-GRAPHICAL Analysis :
+**GRAPHICAL Analysis** :
 ![POX and RYU controller](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/POX%20and%20RYU%20controller.png)
 
-Can we use Hardware ?
+**Can we use Hardware** ?
 ![Hardware Component](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/Harware%20comp.png)
 
