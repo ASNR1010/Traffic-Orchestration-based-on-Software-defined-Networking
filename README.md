@@ -51,10 +51,9 @@ DITG traffic generator :
 ![DITG](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/DITG.png)
 ![Xterminal DITG](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/Xterminal%20DITG.png)
 
-
 GRAPHICAL Analysis :
 ![POX and RYU controller](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/POX%20and%20RYU%20controller.png)
 
-Can we use Hardware :
+Can we use Hardware ?
 ![Hardware Component](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/Harware%20comp.png)
 
