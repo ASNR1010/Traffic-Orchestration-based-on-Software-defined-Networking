@@ -26,8 +26,28 @@ Miniedit implementation steps :
 
 ![Miniedit topology running](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/Miniedit%20topology%20running.png)
 
-5. 
+5. We can PING to from 1 host to other hosts.
+
+![Ping check miniedit](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/Ping%20check%20miniedit.png)
+
+6. We can open xterm window for any two hosts for analyse.
+
+![xterm miniedit](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/xterm%20miniedit.png)
 
 
-6. 
+Mininet implementation :
+
+1. Creating Topologies using CLI.
+
+![Single topology mininet](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/Single%20topology%20mininet.png)
+![Linear topology mininet](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/Linear%20topology.png)
+
+2. We can PING all hosts at the same time.
+
+![PING all mininet](https://github.com/ASNR1010/Traffic-Orchestration-based-on-Software-defined-Networking/blob/main/Images/Pingall%20mininet.png)
+
+DITG traffic generator :
+
+![]()
+
 
